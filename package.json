@@ -19,7 +19,8 @@
   "dependencies": {
     "axios": "^0.18.1",
     "express": "^3.21.0",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "request": "2.87.0"
   },
   "devDependencies": {
     "mocha": "6.1.2",
