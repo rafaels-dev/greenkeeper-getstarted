@@ -20,7 +20,7 @@
     "axios": "git://github.com/bluelovers/axios.git#5be73ad37fac056b9a8a0ba7a098c6741aac7106",
     "chai": "^2.3.0",
     "express": "^3.21.0",
-    "greenkeeper-package-update-test": "1.1.1",
+    "greenkeeper-package-update-test": "2.0.0",
     "lodash": "^4.17.10",
     "request": "^2.87.0"
   },
