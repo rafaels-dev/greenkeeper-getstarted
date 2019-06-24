@@ -20,7 +20,7 @@
     "axios": "git://github.com/bluelovers/axios.git#5be73ad37fac056b9a8a0ba7a098c6741aac7106",
     "express": "^3.21.0",
     "lodash": "^4.17.10",
-    "request": "2.87.0"
+    "request": "^2.87.0"
   },
   "devDependencies": {
     "mocha": "6.1.2",
