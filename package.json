@@ -19,13 +19,13 @@
   "dependencies": {
     "axios": "git://github.com/bluelovers/axios.git#5be73ad37fac056b9a8a0ba7a098c6741aac7106",
     "chai": "^2.3.0",
-    "express": "^3.21.0",
+    "express": "^4.18.2",
     "greenkeeper-package-update-test": "1.1.1",
     "lodash": "^4.17.10",
     "request": "^2.87.0"
   },
   "devDependencies": {
     "mocha": "6.1.2",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
